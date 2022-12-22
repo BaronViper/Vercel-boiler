@@ -1,6 +1,5 @@
 # Vercel-Boiler
-A "boiler" template for Flask applications hosted with Vercel. The aim of this code is to serve as a simple frame for added developments.
-Edit accordingly for more complex applications.
+A "boiler" template for Flask applications hosted with Vercel. The aim of this template is to serve as a foundational frame for further development.
 
 ## Instructions
 To host a Flask app on Vercel, you will first need to create a new project on Vercel and connect it to your GitHub or GitLab repository. Then, you will need to create a vercel.json file in the root of your project with the following contents:
@@ -49,3 +48,5 @@ Note: You will need to have the Vercel CLI installed on your computer to run the
 Alternatively, one can use [Vercel's dashboard](https://vercel.com/) to create a Vercel project with a more intuitive interface.
 
 ![Flask and Vercel](https://i.imgur.com/RUKfGrA.png)
+
+
